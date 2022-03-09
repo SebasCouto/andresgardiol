@@ -11,7 +11,7 @@
 
 - 💻 I’m currently working on [A fork from eth.build](https://github.com/andresgardiol/eth.build) to create a tool to prototipe AWS arquitecture
 
-- 💬 Ask me about **Java, Angular, ReactJs, TDD**
+- 💬 Ask me about **Java, Go, ReactJs, TDD**
 
 - 📫 How to reach me **andresgardiol@gmail.com**
 
