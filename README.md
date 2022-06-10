@@ -7,9 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/andres_gardiol" target="blank"><img src="https://img.shields.io/twitter/follow/andres_gardiol?logo=twitter&style=for-the-badge" alt="andres_gardiol" /></a> </p>
 
-- 🔭 I’m currently working in [Uala](https://uala.com.ar/)
+- 🔭 I’m currently working in [Mercadolibre](https://www.mercadolibre.com/)
+  > Was previously working at [Uala](https://uala.com.ar/)
 
-- 💻 I’m currently working on [A fork from eth.build](https://github.com/andresgardiol/eth.build) to create a tool to prototipe AWS arquitecture
+- 💻 I’m currently working on a [Self driving car](https://github.com/andresgardiol/self-driving-car) project from a [Radu Mariescu-Istodor](https://www.youtube.com/watch?v=IxhrXKEVCsc&list=PLB0Tybl0UNfY8T85rlEnL-ohEz2lIKH-6&index=2&ab_channel=RaduMariescu-Istodor) tutorial
 
 - 💬 Ask me about **Java, Go, ReactJs, TDD**
 
