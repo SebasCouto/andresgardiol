@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **andresgardiol@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/andres-gardiol/](https://www.linkedin.com/in/andres-gardiol/)
+- 📄 Know about my experiences: [linkedin](https://www.linkedin.com/in/andres-gardiol/) / [resume](https://cutt.ly/YLc3OzD)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
